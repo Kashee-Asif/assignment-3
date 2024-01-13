@@ -12,7 +12,8 @@ int main()
 		statement();	
 		cout << "\n\nContinue(y/n):" ;
 		cin >> ch;
-		cout << "\n\n";
+		cout << "\n;
+                cout << "\n;
 	}while(ch=='y'||ch=='Y');
 	
 	return 0;
