@@ -37,3 +37,16 @@ void statement(){
 
 	cout << "\n\nENTER THE OPTION: ";
 	cin >> c;
+
+switch(c){
+		
+		case 1:
+	cout << "\n---------------MENU----------------";
+	cout << "\n    1. ADDITION";
+	cout << "\n    2. SUBTRACTION" ;
+	cout << "\n    3. MULTIPLICATION";
+	cout << "\n    4. DIVISION" ;
+	int menu;
+	cout << "\nEnter Option: ";
+	cin >> menu;
+	
